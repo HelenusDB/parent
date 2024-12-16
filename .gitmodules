@@ -1,0 +1,12 @@
+[submodule "katalog"]
+	path = katalog
+	url = git@github.com:HelenusDB/katalog.git
+[submodule "diago"]
+	path = diago
+	url = git@github.com:HelenusDB/diago.git
+[submodule "core"]
+	path = core
+	url = git@github.com:HelenusDB/core.git
+[submodule "papyrus"]
+	path = papyrus
+	url = git@github.com:HelenusDB/papyrus.git
