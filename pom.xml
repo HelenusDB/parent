@@ -18,10 +18,10 @@
 
 	<modules>
 		<module>core</module>
-		<module>diago</module>
-		<module>katalog</module>
+		<module>document</module>
+		<module>index</module>
+		<module>transact</module>
 		<module>evolve</module>
-		<module>papyrus</module>
 	</modules>
 
 	<dependencies>
